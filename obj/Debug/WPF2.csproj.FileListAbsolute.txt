@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\bin\Debug\WPF2.exe.config
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\bin\Debug\WPF2.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\bin\Debug\WPF2.pdb
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2_MarkupCompile.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2_MarkupCompile.lref
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.g.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.Properties.Resources.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF1\WPF2\WPF2\WPF2\obj\Debug\WPF2.pdb
